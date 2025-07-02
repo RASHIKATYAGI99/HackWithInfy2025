@@ -4,5 +4,5 @@
 
 | Problem No. | Problem Name       | Problem Link                                                           | Approach Summary                       | Status        |
 |-------------|--------------------|------------------------------------------------------------------------|----------------------------------------|---------------|
-| 1           | Buy Two Chocolates | [LeetCode](https://leetcode.com/problems/buy-two-chocolates/)         | Sort array, return sum of smallest two | ✅ Solved      |
+| 1           | Activity Selection |                                                     | Selection number of maximum number of activity | ✅ Solved      |
 | 2           | Assign Cookies     | [LeetCode](https://leetcode.com/problems/assign-cookies/)             | Sort greed and cookies, greedy match   | ❌ Unsolved    |
